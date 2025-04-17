@@ -3,13 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }body{
-    height: 100vh;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }#calculater{
-    width: 250px;
+    width: 300px;
     background-color: black;
     border-radius: 8px;
     padding: 15px;
@@ -19,16 +18,16 @@
     color: #fff;
     margin: auto;
 }#display{
-    width: 220px;
+    width: 250px;
     padding: 10px;
     height: 45px;
     border-radius: 5px;
     margin-bottom: 10px;
 }.btn{
-    height: 50px;
-    width: 50px;
+    height: 75px;
+    width: 75px;
     background-color: #fff;
     border: none;
     border-radius: 50%;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
